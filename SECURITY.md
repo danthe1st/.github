@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-Security vulnerabilities should **not** be reported as an issue on github because anyone can see this issue and use it.
+Security vulnerabilities should **not** be reported as an issue on GitHub because anyone can see this issue and use it.
 
 On the other hand, Security vulnerabilities should be reported **as fast as possible**.
 
